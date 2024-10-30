@@ -1,0 +1,184 @@
+# Copyright (C) 2024 Olivery dev
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect Plus for WooCommerce 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/connect-plus-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-21T23:56:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: connect-plus-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: connect-plus-for-woocommerce.php
+msgid "Connect Plus for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: connect-plus-for-woocommerce.php
+msgid "https://website.olivery.app/"
+msgstr ""
+
+#. Description of the plugin
+#: connect-plus-for-woocommerce.php
+msgid "Plugin to help you connect WooCommerce with Connect Plus application"
+msgstr ""
+
+#. Author of the plugin
+#: connect-plus-for-woocommerce.php
+msgid "Olivery dev"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:156
+msgid "View Connect Plus settings"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:156
+msgid "Settings"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:186
+msgid "Are you sure to send this/these order/s to Olivery Connect?"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:187
+msgid "Done Send To Olivery Connect, check table for results."
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:188
+msgid "Error Send To Olivery Connect, check the filed."
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:223
+#: admin/cpfw-connect-admin.php:224
+msgid "Connect Plus"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:258
+msgid "Olivery Sequence code"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:285
+msgid "Send To Olivery"
+msgstr ""
+
+#: admin/cpfw-connect-admin.php:320
+#: admin/cpfw-connect-admin.php:337
+msgid "Sent to Olivery Connect Plus"
+msgstr ""
+
+#. Translators: %s is the number of items sent to Olivery Connect.
+#: admin/cpfw-connect-admin.php:326
+msgid "Sent to Olivery Connect Plus <span class=\"count\">(%s)</span>"
+msgid_plural "Sent to Olivery Connect Plus <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/cpfw-connect-admin.php:353
+msgid "Send to Olivery Connect plus"
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:27
+msgid "Already Sent to Olivery Connect Plus"
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:32
+msgid "Send this order to Olivery Connect Plus"
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:38
+msgid "Are you sure to send this/these order/s to Olivery Connect Plus ?"
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:40
+msgid "Sending..."
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:41
+msgid "Send"
+msgstr ""
+
+#: admin/partials/cpfw-connect-admin-send-btn.php:44
+msgid "Cancel"
+msgstr ""
+
+#: admin/views/cpfw-connect-admin-settings.php:23
+msgid "Connect Plus integration Settings"
+msgstr ""
+
+#: admin/views/cpfw-connect-admin-settings.php:35
+msgid "Olivery Token"
+msgstr ""
+
+#: admin/views/cpfw-connect-admin-settings.php:40
+msgid "Auto send when"
+msgstr ""
+
+#: admin/views/cpfw-connect-admin-settings.php:43
+msgid "Disable"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:59
+msgid "Data Not Found "
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:70
+#: endpoints/cpfw-connect-ajax-wrapper.php:168
+msgid "Error sending order to Olivery Connect"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:78
+msgid "Failed to validate Olivery Connect settings, check your credentials!"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:88
+msgid "All good, Do not forget to save your settings and you can reach to Olivery Connect"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:96
+msgid "Check Your credentials and make sure it is correct, or contact support!"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:101
+msgid "Unknown error occurred, Please try again later or contact support!"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:135
+#: endpoints/cpfw-connect-ajax-wrapper.php:136
+msgid "Invalid nonce"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:144
+#: endpoints/cpfw-connect-ajax-wrapper.php:145
+msgid "Not Valid"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:148
+msgid "Follow Instructions"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:156
+msgid "Order Already sent to Olivery Connect Plus: ["
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:176
+msgid "Order failed to be sent to Olivery Connect"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:186
+#: endpoints/cpfw-connect-ajax-wrapper.php:187
+msgid "Missing Billing Information"
+msgstr ""
+
+#: endpoints/cpfw-connect-ajax-wrapper.php:207
+msgid "Order successfully sent to Olivery Connect. Sequence: %s"
+msgstr ""
+
+#: includes/services/cpfw-connect-api.php:37
+msgid "Please fill all data!"
+msgstr ""

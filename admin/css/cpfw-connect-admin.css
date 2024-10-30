@@ -1,0 +1,73 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.olivery-connect .submit:hover {
+    background-color: transparent !important;
+}
+
+.olivery-connect table.options-table th {
+    text-align: left;
+}
+
+.olivery-connect table.options-table th.tit {
+    font-size: 16px;
+}
+
+.olivery-connect table.options-table {
+    min-width: 480px;
+}
+
+.modalBtn {
+    width: 49%;
+}
+
+.olivery-connect .olivery-modal.modal-content {
+    width: 350px;
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    margin: auto;
+    padding: 23px;
+}
+.olivery-connect #modal-urls {
+    display: none;
+    height: 100vh;
+    position: fixed;
+    width: 100vw;
+    z-index: 99999;
+    text-align: center;
+    vertical-align: middle;
+    left: 0;
+    top: 0;
+    background-color: #282828ee;
+    padding-top: 100px;
+}
+
+/* Notice message container */
+.alert {
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    padding: 0.75rem 1.25rem;
+}
+
+/* Error message text */
+.alert-danger,
+.button.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+/* Success message text */
+.alert-success,
+.button.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.order-status{
+    max-width: inherit;
+}
